@@ -1,0 +1,37 @@
+ESTATÍSTICAS DETALHADAS
+==================================================
+
+1. DISTRIBUIÇÃO POR TIPO DE ATENDIMENTO
+Tipo
+R E M    11
+S P       3
+C T I     2
+
+2. DISTRIBUIÇÃO POR STATUS
+Status
+INTERNAÇÃO HOSPITAL     7
+TRANSFERÊNCIA SEM RE    5
+ALTA                    3
+COMPRA DE LEITO         1
+
+3. DISTRIBUIÇÃO POR SETOR
+Setor
+Observação    9
+Pediatria     4
+Emergência    2
+Isolamento    1
+
+4. DISTRIBUIÇÃO POR CIDADE
+Cidade
+DIVINÓPOLIS    14
+PERDIGAO        1
+SÃO GONCALO     1
+
+5. HOSPITAIS DE DESTINO
+Hospital
+NÃO INFORMADO                             8
+SANTA CASA DE SANTO ANTO                  4
+HOSPITAL SENHORA APARECI                  1
+HOSPITAL MANOEL GONÇALV                   1
+SANTA CASA DE SANTO ANTO SÃO GONCALO P    1
+HOSPITAL SANTA LUCIA POÇO                 1

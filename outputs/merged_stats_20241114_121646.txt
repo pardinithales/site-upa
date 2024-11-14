@@ -1,0 +1,80 @@
+ESTATÍSTICAS DOS DADOS MESCLADOS
+==================================================
+
+1. DISTRIBUIÇÃO POR STATUS
+Status
+INTERNAÇÃO HOSPITALAR          222
+ALTA                            82
+EM ATENDIMENTO                  24
+ÓBITO                           22
+TRANSFERÊNCIA SEM REGULAÇÃO     14
+LAUDO CANCELADO                 14
+TRANSFERENCIA VIA SAMU          12
+EVASÃO                           9
+INTERNAÇÃO HOSPITAL              7
+TRANSFERÊNCIA SEM RE             5
+ALTA SAD                         5
+COMPRA DE LEITO                  1
+COMPRA DE LEITO PELO ESTADO      1
+
+2. DISTRIBUIÇÃO POR SETOR
+Setor
+CLINICA MEDICA              193
+PEDIATRICA                   72
+ORTOPÉDICA                   60
+CIRURGIA GERAL               21
+CARDIOLOGICA                 13
+Observação                    9
+BUCO MAXILO                   7
+NEUROLOGICA                   6
+CIRURGIA VASCULAR             5
+ONCOLOGICA                    5
+Pediatria                     4
+PSIQUIATRICA                  3
+UROLOGIA                      3
+ORTOPEDICA PEDIATRICA         3
+NEFROLOGISTA                  3
+CLINICA CARDIOLOGICA          2
+Emergência                    2
+CIRURGICOS VASCULAR           2
+CIRURGICOS CARDIOLOGICA       1
+Isolamento                    1
+CIRURGICOS NEUROCIRURGIA      1
+NÃO INFORMADO                 1
+CLINICA NEFRO/UROLOGIA        1
+
+3. DISTRIBUIÇÃO POR HOSPITAL
+Hospital
+...                                              136
+SANTA CASA DE SANTO ANTONIO DO MONTE              58
+NÃO INFORMADO                                     32
+SANTA CASA DE SANTO ANTONIO DO AMPARO             31
+HOSPITAL SÃO JOÃO DE DEUS DE DIVINOPOLIS          29
+HOSPITAL SÃO LUIZ DE FORMIGA                      26
+SANTA CASA DE CLAUDIO                             18
+SANTA CASA DE ARCOS                               14
+HOSPITAL SÃO JOSE DE NOVA SERRANA                 11
+SANTA CASA DE ITAGUARA                             8
+HOSPITAL NOSSA SENHORA APARECIDA DE LUZ            7
+HOSPITAL SENHORA APARECIDA DE LUZ                  7
+SANTA CASA DE BOM DESPACHO                         5
+SANTA CASA DE CAMPO BELO                           5
+3 - ACOMPANHAMENTO VIA SAD                         5
+SANTA CASA DE SANTO ANTO                           4
+HOSPITAL SAO JUDAS TADEU DE OLIVEIRA               3
+HOSPITAL SÃO CARLOS DE LAGOA DA PRATA              3
+SANTA CASA DE PITANGUI                             2
+HOSPITAL NOSSA SENHORA BRASIL EM BAMBUI            1
+HOSPITAL Nª Srª DA CONCEIÇAO DE PARA DE MINAS      1
+HOSPITAL DE BARRETOS EM CAMPINAS                   1
+HOSPITAL DAS CLINICAS BELO HORIZONTE               1
+CGP CENTRO GERAL DE PEDIATRIA JOÃO PAULO II        1
+4 - SAUDE SUPLEMENTAR                              1
+1 - VAGA ZERO HSJD                                 1
+HOSPITAL UNIMED DE PASSOS                          1
+HOSPITAL SANTA LUCIA POÇO                          1
+SANTA CASA DE BELO HORIZONTE                       1
+SANTA CASA DE SANTO ANTO SÃO GONCALO P             1
+HOSPITAL MANOEL GONÇALV                            1
+HOSPITAL SENHORA APARECI                           1
+HOSPITAL INFANTIL JOAO PAULO II                    1

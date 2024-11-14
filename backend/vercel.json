@@ -1,0 +1,14 @@
+{
+    "buildCommand": "cd frontend && npm install && npm run build",
+    "outputDirectory": "frontend/build",
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "/backend/main.py"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/frontend/build/$1"
+      }
+    ]
+  }
