@@ -28,10 +28,10 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://indicadores-upa-front-4p4j6oo23-thales-pardinis-projects.vercel.app/"],  # Substitua "*" pelos domínios específicos, como "http://localhost:3004" e "https://indicadores-upa.vercel.app"
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["*"],  # Permite todos os métodos HTTP (GET, POST, etc.)
+    allow_headers=["*"],  # Permite todos os headers
 )
 
 
